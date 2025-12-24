@@ -39,3 +39,4 @@ Notes and usage details for react-native-control-center.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
